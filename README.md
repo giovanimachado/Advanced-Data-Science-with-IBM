@@ -1,2 +1,2 @@
-# Fundamentals-of-Scalable-Data-Science
-Fundamentals of Scalable Data Science form Coursera and IBM
+# Advanced Data Science with IBM
+Advanced Data Science with IBM from Coursera and IBM
