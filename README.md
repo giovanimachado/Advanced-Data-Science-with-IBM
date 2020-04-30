@@ -4,7 +4,7 @@
 ### [Course 2 - Advanced Machine Learning and Signal Processing](https://github.com/giovanimachado/Advanced-Data-Science-with-IBM/tree/master/Advanced%20Machine%20Learning%20and%20Signal%20Processing) <br>
 ### [Course 3 - Applied AI with DeepLearning](https://github.com/giovanimachado/Advanced-Data-Science-with-IBM/tree/master/Applied%20AI%20with%20DeepLearning) <br>
 ### [Course 4 - Advanced Data Science Capstone](https://github.com/giovanimachado/Advanced-Data-Science-with-IBM/tree/master/Advanced%20Data%20Science%20Capstone) <br>
-- In this capstone project I developed a model to detect fraudulent Credit Card Operations Using Spark [Notebook](https://github.com/giovanimachado/Advanced-Data-Science-with-IBM/blob/master/Advanced%20Data%20Science%20Capstone/creditCardFraudGiovani.CapstoneProject_spark.ipynb).
+- In this capstone project I developed a model to detect fraudulent Credit Card Operations Using Spark: [Notebook](https://github.com/giovanimachado/Advanced-Data-Science-with-IBM/blob/master/Advanced%20Data%20Science%20Capstone/creditCardFraudGiovani.CapstoneProject_spark.ipynb).
 - I presented the result in this video:
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=iFd0iEvLfRA&t" target="_blank">
