@@ -6,11 +6,14 @@
 ### [Course 4 - Advanced Data Science Capstone](https://github.com/giovanimachado/Advanced-Data-Science-with-IBM/tree/master/Advanced%20Data%20Science%20Capstone) <br>
 - In this capstone project I developed a model to detect fraudulent Credit Card Operations Using Spark [Notebook](https://github.com/giovanimachado/Advanced-Data-Science-with-IBM/blob/master/Advanced%20Data%20Science%20Capstone/creditCardFraudGiovani.CapstoneProject_spark.ipynb).
 - I presented the result in this video:
-[https://www.youtube.com/watch?v=iFd0iEvLfRA&t=18s]
+ 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=iFd0iEvLfRA&t" target="_blank">
+  <p align="center">
+    <img src="http://img.youtube.com/vi/iFd0iEvLfRA/1.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" />
+  </p>
+</a>
 
 
-<center>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=iFd0iEvLfRA&t" target="_blank"><img src="http://img.youtube.com/vi/iFd0iEvLfRA/1.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
-</center>
 
-https://youtu.be/iFd0iEvLfRA?t=53
+
+
